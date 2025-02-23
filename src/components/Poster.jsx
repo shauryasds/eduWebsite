@@ -17,7 +17,7 @@ function Poster() {
       </div>
       <div className="flex-shrink-0">
         <img 
-          src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
+          src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
           alt="Student with backpack"
           className="w-full md:w-[200px] h-auto md:h-[200px] object-cover rounded-lg shadow-md"
         />

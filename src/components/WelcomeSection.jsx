@@ -27,9 +27,9 @@ function WelcomeSection() {
               </li>
             </ul>
           </div>
-          <div className="relative">
+          <div className="relative hidden md:block">
             <img 
-              src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
+              src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
               alt="Student with backpack"
               className="w-96 h-auto"
             />

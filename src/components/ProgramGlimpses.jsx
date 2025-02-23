@@ -18,7 +18,7 @@ const ProgramGlimpses = () => {
       <Zoom  scale={1.4}>
         <div className='flex justify-center space-x-4'>
           <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
             alt="Program 1"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
@@ -28,42 +28,44 @@ const ProgramGlimpses = () => {
             className="w-[30%] h-48 rounded-lg object-cover"
           />
           <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
             alt="Program 3"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
         </div>
         <div className='flex justify-center space-x-4'>
           <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
-            alt="Program 4"
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
+            alt="Program 1"
+            className="w-[30%] h-48 rounded-lg object-cover"
+          />
+          
+          <img
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
+            alt="Program 3"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
           <img
             src="https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
-            alt="Program 5"
-            className="w-[30%] h-48 rounded-lg object-cover"
-          />
-          <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
-            alt="Program 6"
+            alt="Program 2"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
         </div>
         <div className='flex justify-center space-x-4'>
+         
           <img
-            src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80"
-            alt="Program 7"
+            src="https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+            alt="Program 2"
+            className="w-[30%] h-48 rounded-lg object-cover"
+          />
+           <img
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
+            alt="Program 1"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
           <img
-            src="https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
-            alt="Program 8"
-            className="w-[30%] h-48 rounded-lg object-cover"
-          />
-          <img
-            src="https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
-            alt="Program 9"
+            src="https://www.whizsky.com/wp-content/uploads/2015/02/online-education-website.jpg"
+            alt="Program 3"
             className="w-[30%] h-48 rounded-lg object-cover"
           />
         </div>
