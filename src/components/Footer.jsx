@@ -11,7 +11,7 @@ const Footer = () => {
 
           {/* Left Column */}
           <div className="text-gray-700 mb-4 md:mb-0">
-            <h2 className="text-xl font-extrabold">Tuitionpad</h2>
+            <h2 className="text-xl font-extrabold">Company Name</h2>
           </div>
 
           <div className="flex flex-col md:flex-row items-start md:items-end">
