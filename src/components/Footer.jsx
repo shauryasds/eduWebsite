@@ -37,14 +37,14 @@ const Footer = () => {
             </div>
             <div className="pl-4 mt-4">
       <div className="flex flex-col md:flex-row  justify-center mt-2">
-        <a href="mailto:hello@tuitionpad.com" className="text-gray-700 font-extrabold hover:bg-green-600 hover:text-white flex items-center">
+        <a href="mailto:xyz@xyz.com" className="text-gray-700 font-extrabold hover:bg-green-600 hover:text-white flex items-center">
           <FaEnvelope className="mr-2" /> 
-          hello@tuitionpad.com
+          xyz@xyz.com
         <span className="mx-4">|</span>
         </a>
-        <a href="tel:+917976649684" className="text-gray-700 font-extrabold hover:bg-green-600 hover:text-white flex items-center">
+        <a href="tel:+911234567890" className="text-gray-700 font-extrabold hover:bg-green-600 hover:text-white flex items-center">
           <FaPhoneAlt className="mr-2" />
-          +91 7976649684
+          +91 1234567890
         </a>
       </div>
     </div>
